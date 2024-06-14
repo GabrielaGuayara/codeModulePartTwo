@@ -1,4 +1,4 @@
-import { menuLinks } from "./helper";
+import { menuLinks } from "./helper.js";
   
   //Creating a variable to select the main element from HTML doc and change the background color, have text content and add a class
   const mainEl  = document.querySelector("main");

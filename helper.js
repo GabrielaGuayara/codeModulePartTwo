@@ -1,3 +1,5 @@
+
+//export menuLinks to the app.js file
 export let menuLinks = [
     {text: 'about', href: '/about'},
     {text: 'catalog', href: '#', subLinks: [
